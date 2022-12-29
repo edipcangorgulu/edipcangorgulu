@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Edip Can</h1>
 <h3 align="center">Frontend developer from Turkey</h3>
 
@@ -8,9 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/edipcangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edipcangg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edipcangorgulu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edipcangorgulu/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20794947/edip-can" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20794947/edip-can" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/edipcangg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edipcangg/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edipcangorgulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edipcangorgulu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20794947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20794947" height="30" width="40" /></a>
+<a href="https://instagram.com/edipcangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edipcangg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
