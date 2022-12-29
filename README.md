@@ -4,7 +4,7 @@
 
 - 💬 Ask me about Frontend Development **React,JavaScript**
 
-- 📫 How to reach me **edipcan98@hotmail.com**
+- 📫 How to reach me **edipcangorgulu@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
